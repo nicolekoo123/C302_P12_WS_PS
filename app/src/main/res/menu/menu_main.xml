@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/viewMap"
+        android:orderInCategory="100"
+        android:title="View Map" />
+    <item
+        android:id="@+id/addIncident"
+        android:orderInCategory="100"
+        android:title="Add Incident" />
+    <item
+        android:id="@+id/viewAllIncident"
+        android:orderInCategory="100"
+        android:title="View All Incident" />
+</menu>

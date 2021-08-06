@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268339301558",
+    "project_id": "fir-locationapp-9d792",
+    "storage_bucket": "fir-locationapp-9d792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268339301558:android:5cca54ef6f81a7b2d7aa17",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.id19047433.c302_p12_ws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268339301558-d35jokuo4f2ba8fmc7nkrca9c0j6tord.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2U7hoN_Ny10-X5HCATjVz9gH66Wbmg_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268339301558-d35jokuo4f2ba8fmc7nkrca9c0j6tord.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
